@@ -1,4 +1,3 @@
-
 Ly do co cuoc thi Hackathon: Thuc hien muc tieu lan rong niem dam me lap trinh, tao dong luc cho sinh vien ap dung cong nghe vao thuc tien, vien tri tue nhan tao xay dung ke hoach trien khai cuoc thi Hackathon lap trinh tro choi ung dung cho giao duc "Game hoa giao duc" (gamify education) danh cho sinh vien cac truong Dai hoc, va hoc sinh cac truong THPT tren dia ban Thanh pho Ha Noi.
 
 Muc dich, y nghia cua cuoc thi Hackathon: Phat huy suc manh cua tuoi tre Vien Tri tue nhan tao - Dai hoc Cong nghe, Dai hoc Quoc gia Ha Noi, dac biet phat huy cac the manh ve hoat dong chuyen mon. Giup sinh vien co co hoi thuc hanh su dung cac ngon ngu lap trinh de cho ra san pham cu the. Tu do, tao dong luc va cung co them tinh yeu voi lap trinh, voi cong nghe thong tin cho cac ban sinh vien. Thong qua chu de nam nay "Lap trinh ung dung cho dao tao (Gamify education)", cac san pham huong toi muc tieu nang cao giao duc, cai thien phuong phap day va hoc, tao nhung phan mem ung dung moi dem lai trai nghiem va pho cap kien thuc mot cach thu vi, sinh dong hon.
@@ -22,3 +21,5 @@ Ban co van va giam thao cuoc thi Hackathon: Ban co van chuyen mon bao gom TS. Tr
 Vong loai cuoc thi Hackathon: Cac doi tham gia cuoc thi se gui y tuong ve san pham du thi ve cho Ban To chuc truoc ngay 16/07/2023. Ban giam khao se cham y tuong, video thuyet trinh cua cac doi dua tren cac tieu chi trong muc 2. 10 Doi co so diem cao nhat se duoc tien vao vong chung ket.
 
 Chung ket cuoc thi Hackathon: Vao ngay 29/07/2023 va 30/07/2023. 10 Doi co diem so cao nhat se buoc vao vong Chung ket. Moi doi se hoan thanh san pham cua minh trong vong 24h. Sau do se lan luot trinh bay san pham cho ban giam khao.
+
+
