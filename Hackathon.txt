@@ -1,0 +1,34 @@
+Lý do có cuộc thi Hackathon: Thực hiện mục tiêu lan rộng niềm đam mê lập trình, tạo động lực cho sinh viên áp dụng công nghệ vào thực tiễn, viện trí tuệ nhân tạo xây dựng kế hoạch triển khai cuộc thi Hackathon lập trình trò chơi ứng dụng cho giáo dục “Game hóa giáo dục” (gamify education) dành cho sinh viên các trường Đại học, và học sinh các trường THPT trên địa bàn Thành phố Hà Nội.
+
+Mục đích, ý nghĩa của cuộc thi Hackathon: Phát huy sức mạnh của tuổi trẻ Viện Trí tuệ nhân tạo - Đại học Công nghệ, Đại học Quốc gia Hà Nội, đặc biệt phát huy các thế mạnh về hoạt động chuyên môn. Giúp sinh viên có cơ hội thực hành sử dụng các ngôn ngữ lập trình để cho ra sản phẩm cụ thể. Từ đó, tạo động lực và củng cố thêm tình yêu với lập trình, với công nghệ thông tin cho các bạn sinh viên. Thông qua chủ đề năm nay “Lập trình ứng dụng cho đào tạo (Gamify education)”, các sản phẩm hướng tới mục tiêu nâng cao giáo dục, cải thiện phương pháp dạy và học, tạo những phần mềm ứng dụng mới đem lại trải nghiệm và phổ cập kiến thức một cách thú vị, sinh động hơn. 
+
+Đối tượng cuộc thi Hackathon: Sinh viên năm nhất, năm hai của các trường đại học trên địa bàn Hà Nội, học sinh THPT trên địa bàn Hà Nội.
+
+Thời gian dự kiến cuộc thi: Từ 20/06/2023 đến 30/07/2023.
+
+Địa điểm dự kiến cuộc thi Hackathon: Các bạn thí sinh đăng ký tham gia cuộc thi sẽ gửi bài dự thi về cho Ban Tổ chức trước ngày 16/07/2023. Chung kết tại trường Đại học Công nghệ (trong phòng 24h tại phòng 301-G2).
+
+Hình thức thi Hackathon: theo nhóm 3 -5 người
+
+Nội dung thi Hackathon: các ứng dụng trò chơi hỗ trợ giáo dục không giới hạn loại kiến thức (kiến thức phổ thông, kiến thức xã hội, kỹ năng mềm) hay giới hạn hình thức giáo dục (lên lớp, trực tuyến) hay đối tượng (mầm non, tiểu học, THCS, THPT, đại học, cao đẳng, trung cấp, sau đại học, hay ngoài phạm vi trường học). 
+
+Tiêu chí chấm thi Hackathon: Tính sáng tạo, Tính mới, Tính ứng dụng, Khả năng hoàn thiện
+
+Cơ cấu giải thưởng cuộc thi Hackathon: 1 giải Nhất: Giấy chứng nhận + 20,000,000 VND tiền mặt. 2 giải Nhì: Giấy chứng nhận + 10,000,000 VND tiền mặt. 2 giải Ba: Giấy chứng nhận + 5,000,000 VND tiền mặt. Lưu ý: Giải thưởng trên chưa tính các hiện vật mà các doanh nghiệp tài trợ.
+
+Ban cố vấn và giám thảo cuộc thi Hackathon: Ban cố vấn chuyên môn bao gồm TS. Trần Quốc Long (viện trưởng viện Trí tuệ nhân tạo) và TS. Nguyễn Thị Ngọc Diệp. Ban giám khảo gồm: TS. Trần Quốc Long - Viện trưởng viện Trí tuệ nhân tạo, TS. Nguyễn Thị Ngọc Diệp, Nhà tài trợ cho cuộc thi.
+
+Vòng loại cuộc thi Hackathon: Các đội tham gia cuộc thi sẽ gửi ý tưởng về sản phẩm dự thi về cho Ban Tổ chức trước ngày  16/07/2023. Ban giám khảo sẽ chấm ý tưởng, video thuyết trình của các đội dựa trên các tiêu chí trong mục 2. 10 Đội có số điểm cao nhất sẽ được tiến vào vòng chung kết.
+
+Chung kết cuộc thi Hackathon: Vào ngày 29/07/2023 và 30/07/2023. 10 Đội có điểm số cao nhất sẽ bước vào vòng Chung kết. Mỗi đội sẽ hoàn thành sản phẩm của mình trong vòng 24h. Sau đó sẽ lần lượt trình bày sản phẩm cho ban giám khảo.
+
+
+
+
+
+
+
+
+
+
+
